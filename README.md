@@ -1,6 +1,4 @@
-Here's the **README** in GitHub-flavored Markdown code format:
 
-```markdown
 # iqTable - Intelligent Timetable Generator
 
 iqTable is a simple and user-friendly web application designed to automate the process of creating school timetables. With iqTable, users can easily add subjects, assign teachers, and manage timetables efficiently. The application supports real-time editing and allows users to download the generated timetable in CSV format for offline use.
